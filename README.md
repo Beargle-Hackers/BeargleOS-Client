@@ -21,6 +21,7 @@ Beargle OS Client Is a stylish client made for Beargle OS it has proxys and new 
 
 **New links Generated Every Time one is blocked**: Access the internet without restrictions Always, and enjoy all the websites you want to visit.
 
+**Thr new Mincraft Unblocked Client**: The newest unblocked Mineraft client having a bunch of different versions of the game as well as many clients and servers.
 
 ## Getting Started
 Beargle OS Client is available only after you join the CLAUS Membership at my Buy Me A Coffee page after you join the membership you should see a post telling you the corrects url. It can be accessed directly from your browser. There's no need to sign in or download any software, making it an easy and convenient way to use an operating system without any setup required.
